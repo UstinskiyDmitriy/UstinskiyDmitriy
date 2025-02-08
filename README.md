@@ -30,7 +30,7 @@
 ### 2. Магазин компьюетных игр
 Магазин дял приобретения ключей активации игр в Steam при помощи Российких банковских карт
 
-Сайт: [Game Shop](https://game-shop-sandy.vercel.app/)
+Сайт: [RG Store](https://game-shop-sandy.vercel.app/)
 
 ---
 
