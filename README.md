@@ -27,10 +27,14 @@
 
 Сайт: [Финансовый трекер](https://my-finance-delta-three.vercel.app/)
 
+Страница GitHub: [Перейти](https://github.com/UstinskiyDmitriy/my-finance)
+
 ### 2. Магазин компьюетных игр
 Магазин дял приобретения ключей активации игр в Steam при помощи Российких банковских карт
 
 Сайт: [RG Store](https://game-shop-sandy.vercel.app/)
+
+Страница GitHub: [Перейти](https://github.com/UstinskiyDmitriy/game-store)
 
 ---
 
